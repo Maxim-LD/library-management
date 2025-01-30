@@ -286,3 +286,17 @@ The tests are written using Mocha, Chai, and Sinon for unit testing and Supertes
 
 ## Conclusion
 This documentation provides an overview of how to set up, run, and interact with the Maxim Library Management API. For more detailed information, please refer to the source code and comments within the project.
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+For inquiries or support, please contact:
+- **Name:** Maxim LD
+- **Email:** [maxld.testdev@gmail.com](mailto:maxld.testdev@gmail.com)
+- **GitHub:** [https://github.com/maxim-ld](https://github.com/maxim-ld)
+- **LinkedIn:** [https://www.linkedin.com/in/arowosere-ak](https://www.linkedin.com/in/arowosere-ak)
+
